@@ -33,4 +33,5 @@ BSPWM Rice based in Mellow Theme
 * **Potato**                       : [Late](https://www.youtube.com/@LateCodOficial)
 * **Car**                          : Grello Porsche GT3 R
 * And a others things lol
+
 ![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev3.png)
