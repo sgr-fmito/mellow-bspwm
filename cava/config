@@ -1,0 +1,24 @@
+[output]
+
+[input]
+
+method = pulse
+
+[general]
+
+bar_width = 1
+
+[color]
+
+gradient = 1
+gradient_count = 6
+gradient_color_1 = '#f5a191'
+gradient_color_2 = '#90b99f'
+gradient_color_3 = '#e6b99d'
+gradient_color_4 = '#aca1cf'
+gradient_color_5 = '#e29eca'
+gradient_color_6 = '#ea83a5'
+
+[smoothing]
+
+gravity = 100
