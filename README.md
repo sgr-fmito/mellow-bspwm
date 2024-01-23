@@ -29,5 +29,8 @@ BSPWM Rice based in Mellow Theme
 ![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev2.png)
 
 * **Image Viewer**                 : [feh](https://github.com/derf/feh)
-
+* **Waifu**                        :  [Naomi Payton](https://www.instagram.com/_naomi_payton_/?hl=en)
+* **Potato**                       : [Late](https://www.youtube.com/@LateCodOficial)
+* **Car**                          : Grello Porsche GT3 R
+* And a others things lol
 ![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev3.png)
