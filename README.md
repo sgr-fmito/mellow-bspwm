@@ -30,7 +30,7 @@ BSPWM Rice based in Mellow Theme
 
 * **Image Viewer**                 : [feh](https://github.com/derf/feh)
 * **Waifu**                        :  [Naomi Payton](https://www.instagram.com/_naomi_payton_/?hl=en)
-* **The Other Waifu **             : Rikuhachima Aru
+* **The Other Waifu**             : Rikuhachima Aru
 * **Potato**                       : [Late](https://www.youtube.com/@LateCodOficial)
 * **Car**                          : Grello Porsche GT3 R
 * **The Other Car**                : Mazda Rx7
