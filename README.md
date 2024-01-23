@@ -14,8 +14,20 @@ BSPWM Rice based in Mellow Theme
 
 ### Preview
 
-![alt text](https://github.com/n1els3n/bspwm-dotfiles/blob/main/preview/prev1.png)
+* **Fetch**                        :  [fet.sh](https://github.com/eepykate/fet.sh)
 
-![alt text](https://github.com/n1els3n/bspwm-dotfiles/blob/main/preview/prev2.png)
+![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev1.png)
 
-![alt text](https://github.com/n1els3n/bspwm-dotfiles/blob/main/preview/prev3.png)
+* **Text Editor**                  : [lazyvim](https://github.com/LazyVim/LazyVim)
+* **File Manager**                 : [ranger](https://github.com/ranger/ranger)
+* **Pdf Viewer**                   : [zathura](https://github.com/pwmt/zathura)
+* **Pipes**                        : [pipes.sh](https://github.com/pipeseroni/pipes.sh)
+* **Process Manager**              : [htop](https://github.com/htop-dev/htop)
+* **Spectrum Audio Visualizer**    : [cava](https://github.com/karlstav/cava)
+* **Vtuber**                       : [Flare Ch. 不知火フレア](https://www.youtube.com/@ShiranuiFlare)
+
+![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev2.png)
+
+* **Image Viewer**                 : [feh](https://github.com/derf/feh)
+
+![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev3.png)
