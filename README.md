@@ -31,7 +31,7 @@ BSPWM Rice based in Mellow Theme
 * **Image Viewer**                 : [feh](https://github.com/derf/feh)
 * **Waifu**                        :  [Naomi Payton](https://www.instagram.com/_naomi_payton_/?hl=en)
 * **The Other Waifu**              : Rikuhachima Aru
-* **Honorable Mentions**           : Peppy, BTMC, Mexican Lopez, Jim Carona, ZIMA, Baby Rock Johnson, Proto 
+* **Honorable Mentions**           : Peppy, [BTMC](https://www.twitch.tv/btmc), [Mexican Lopez](https://www.youtube.com/@mexicanlopez), [Jim Carona](https://www.youtube.com/@jimcaronaPlus), [ZIMA](https://www.youtube.com/@Zima.MarcoGomez), Baby Rock Johnson, [Proto](https://www.youtube.com/channel/UCIIHM_DjF-4kSyUifxsnkuw) 
 * **Potato**                       : [Late](https://www.youtube.com/@LateCodOficial)
 * **Car**                          : Grello Porsche GT3 R
 * **The Other Car**                : Mazda Rx7
