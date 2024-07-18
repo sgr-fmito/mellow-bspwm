@@ -22,5 +22,4 @@ BSPWM Rice based in Mellow Theme
 * **Pipes**                        : [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 * **Process Manager**              : [htop](https://github.com/htop-dev/htop)
 * **Spectrum Audio Visualizer**    : [cava](https://github.com/karlstav/cava)
-* **Vtuber**                       : [Flare Ch. 不知火フレア](https://www.youtube.com/@ShiranuiFlare)
 * **Fetch**                        :  [fet.sh](https://github.com/eepykate/fet.sh)
