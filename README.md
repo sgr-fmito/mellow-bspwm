@@ -11,7 +11,7 @@ BSPWM Rice based in Mellow Theme
 * **Text Editor**                  : [lazyvim](https://github.com/LazyVim/LazyVim) with [mellow-theme](https://github.com/mellow-theme/mellow.nvim)
 
 ### Preview
-![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev1.png)
+![alt text](https://github.com/sgr-fmito/mellow-rice/blob/main/preview/prev1.png)
 * **Fetch**                        :  [fet.sh](https://github.com/eepykate/fet.sh)
 * **Text Editor**                  : [lazyvim](https://github.com/LazyVim/LazyVim)
 * **File Manager**                 : [ranger](https://github.com/ranger/ranger)
@@ -21,4 +21,4 @@ BSPWM Rice based in Mellow Theme
 * **Spectrum Audio Visualizer**    : [cava](https://github.com/karlstav/cava)
 * **Vtuber**                       : [Flare Ch. 不知火フレア](https://www.youtube.com/@ShiranuiFlare)
 
-![alt text](https://github.com/n1els3n/mellow-rice/blob/main/preview/prev2.png)
+![alt text](https://github.com/sgr-fmito/mellow-rice/blob/main/preview/prev2.png)
